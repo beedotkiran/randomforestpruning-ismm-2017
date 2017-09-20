@@ -1,7 +1,8 @@
 # Cost-Complexity pruning of Random Forests ISMM 2017
+
 * [Paper](https://arxiv.org/abs/1703.05430), [Poster](https://beedotkiran.github.io/pruning_posterISMM2017.pdf), 
 * Only Classification tasks have been evaluated.
-
+![Overview](https://beedotkiran.github.io/images/forest_pruning.png)
 ## Datasets
 * Download [winequality dataset](https://archive.ics.uci.edu/ml/datasets/Wine+Quality), and other datasets and change utils.py to add new datasets to test out the pruning algorithm.
 
